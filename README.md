@@ -10,7 +10,7 @@ I'm a frontend web Engineer, currently acquiring a diploma in cloud Engineering 
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I am Diploma holder in cloud Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022/2023.
-- 🌱 I’m knowledged in AWS,GPC,Digital oceen,Linux,Teraform,Ansible,JavaScript,python and other automation tools
+- 🌱 I’m knowledged in AWS,GPC,Digital oceen,Linux,Teraform,Ansible,JavaScript,python,Docker and other automation tools
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: DevOps, Clouds,Systems Admin or Switch Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing ikehchidimma5@gmail.com.
